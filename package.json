@@ -1,0 +1,21 @@
+{
+  "name": "until",
+  "version": "1.0.0",
+  "description": "how long until?",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jodytate/until.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "countdown.js": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jody Tate <jody@josephtate.com> (http://josephtate.com)",
+  "license": "MIT"
+}
