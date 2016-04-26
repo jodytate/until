@@ -1,6 +1,6 @@
 {
   "name": "until",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "how long until?",
   "main": "index.js",
   "repository": {
